@@ -4,7 +4,7 @@ import "./../styles/App.css";
 function App() {
   return (
     <div id="main">
-      // Do not alter the main div
+     
     </div>
   );
 }
